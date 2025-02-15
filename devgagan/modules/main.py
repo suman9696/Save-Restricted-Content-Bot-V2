@@ -235,7 +235,7 @@ async def batch_link(_, message):
     users_loop[user_id] = True
     try:
         normal_links_handled = False
-        if DEFAULT_
+        if DEFAULT
         userbot = await initialize_userbot(user_id)
         # Handle normal links first
         for i in range(cs, cs + cl):
